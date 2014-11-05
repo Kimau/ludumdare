@@ -1,0 +1,106 @@
+body
+{
+  background: #111;
+  color: #EEE;
+  position: relative;
+}
+
+header,
+div,
+canvas
+{ 
+  position: relative; 
+}
+
+h1,
+h2,
+h3
+{
+  text-align: center;
+}
+
+header > span
+{
+  background: #DDD;
+  color: #111;
+  padding: 4px;
+  margin: 3px;
+  border: 2px solid #777;
+  border-radius: 10px;
+}
+
+.gamBox
+{
+  background: #222;
+  width: 100%;
+  text-align: auto;
+}
+
+.gamBox canvas
+{
+  margin: 2px auto 2px auto;
+}
+
+.hover
+{
+  position: relative;
+  text-align: left;
+}
+
+.hover em,
+.hover b
+{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin: 2px 2px 2px 8px;
+  width: 150px;
+}
+
+.hover em { visibility: hidden; }
+.hover:hover em { visibility: visible; }
+.hover:hover b  { visibility: hidden; }
+
+#gameResources 
+{ 
+  display: block; 
+  background: #000;
+  position: absolute;
+  left: 33%;
+  width: 33%;
+}
+
+#gameResources img { max-width: 128px; max-height: 128px; }
+
+#debugLog 
+{ 
+  display: block; 
+  white-space: pre-line; 
+  position: absolute;
+  width: 30%;
+  left: 0px;
+}
+
+#liveOutput 
+{ 
+  display: block; 
+  position: absolute;
+  right: 0px;
+  width: 30%;
+}
+
+#liveOutput dt { display: inline-block; color: #DDD; width: 29%; margin: 0px; overflow: hidden; }
+#liveOutput dd { display: inline-block; color: #EEE; width: 69%; margin: 0px; overflow: hidden; }
+#liveOutput dt:nth-child(4n-1) { background: #222; }
+#liveOutput dd:nth-child(4n) { background: #222; }
+
+#tutorial
+{
+  display: block;
+  position: absolute;
+  left: 5px;
+  right: 5px;
+  min-width: 300px;
+  background: #111;
+  text-align: center;
+}

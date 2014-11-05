@@ -1,0 +1,8 @@
+C:\Dev\LD17\LD17\bin\x86\Debug\Content\ball.xnb
+C:\Dev\LD17\LD17\bin\x86\Debug\LD17.exe
+C:\Dev\LD17\LD17\bin\x86\Debug\LD17.pdb
+C:\Dev\LD17\LD17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\LD17\LD17\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Dev\LD17\LD17\obj\x86\Debug\LD17.exe
+C:\Dev\LD17\LD17\obj\x86\Debug\LD17.pdb
+C:\Dev\LD17\LD17\bin\x86\Debug\Content\DebugLine.xnb

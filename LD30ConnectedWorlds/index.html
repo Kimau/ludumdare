@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Ludum Dare #30: Connected Worlds</title>
+	<meta name="author" content="Claire Blackshaw">
+	<link type="text/css" rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Title</h1>
+		<h3>Ludum Dare #30: Connected Worlds</h3>
+		<h3>Game in 48 hours by <span class="hover"><em>Claire Blackshaw</em><b>Kimau</b></span></h3>
+	</header>
+<div class="gamBox">
+	<canvas id="gameCanvas" width="700" height="600"></canvas>
+</div>
+
+<div id="gameResources">
+	<img id="imgStarBigBG" src="starBigBG.png">
+	<img id="imgShip" src="ship.png">
+	<img id="imgFlames" src="flames.png">
+	<img id="imgSpeck" src="speck.png">
+	<img id="imgShield" src="brakeShield.png">
+	<img id="imgBooster" src="blueFlame.png">
+	<img id="imgGrid" src="grid.png">
+</div>
+
+<div id="debugLog">
+</div>
+
+<dl id="liveOutput">
+</dl>
+
+<div id="tutorial">
+</div>
+
+<script src="main.js"></script> 
+<script type="text/javascript">
+	window.onload = initGame;
+	if(window.location.search.match('dev') == null)
+	{
+		$("gameResources").style.display = "block";
+		$("debugLog").style.display = "block";
+		$("liveOutput").style.display = "block";
+	}
+	else
+	{
+		$("tutorial").style.display = "none";
+	}
+</script>
+</body>
+</html>

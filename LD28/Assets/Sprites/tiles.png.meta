@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: eb908754f3aa7c74fba515abddebb9bf
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: left_brick
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 435
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: brick
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 435
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: right_brick
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 435
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: left_stone
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 370
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: stone
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 370
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: right_stone
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 370
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: roof_left
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 435
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: roof
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 435
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: roof_right
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 435
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_left
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_mid
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 305
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_right
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_hole
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 370
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: window
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 370
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_window
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 305
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: shutters
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 370
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_shutters
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 305
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_crossbar
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 305
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_roof
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_top_left
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: blown_top_right
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

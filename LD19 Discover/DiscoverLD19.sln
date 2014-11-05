@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{529F0220-28D2-4E87-0E41-E4DDEBA1302A}") = "DiscoverLD19", "DiscoverLD19.csproj", "{F7926142-CC39-5D01-9794-0745BBB1B545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7926142-CC39-5D01-9794-0745BBB1B545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7926142-CC39-5D01-9794-0745BBB1B545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7926142-CC39-5D01-9794-0745BBB1B545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7926142-CC39-5D01-9794-0745BBB1B545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

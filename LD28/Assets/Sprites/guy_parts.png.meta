@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 66f584b5a1a56d54b9c181d5e6c4ce8b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: hand_l
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 428
+        width: 55
+        height: 78
+      alignment: 9
+      pivot: {x: .579872072, y: .133919746}
+    - name: hand_r
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 426
+        width: 55
+        height: 77
+      alignment: 9
+      pivot: {x: .433439761, y: .138674259}
+    - name: head_r
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 376
+        width: 131
+        height: 132
+      alignment: 9
+      pivot: {x: .555890262, y: .250399977}
+    - name: head_l
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 376
+        width: 131
+        height: 133
+      alignment: 9
+      pivot: {x: .449698657, y: .26328662}
+    - name: wrist_l
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 394
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: wrist_r
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 396
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arm_bottom_l
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 282
+        width: 76
+        height: 100
+      alignment: 9
+      pivot: {x: .817911625, y: .119276427}
+    - name: gas
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 166
+        width: 76
+        height: 206
+      alignment: 9
+      pivot: {x: .49036628, y: .713250935}
+    - name: torso
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: arm_top_r
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 202
+        width: 77
+        height: 99
+      alignment: 9
+      pivot: {x: .30031991, y: .773636043}
+    - name: arm_top_l
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 154
+        width: 77
+        height: 99
+      alignment: 9
+      pivot: {x: .68066299, y: .766240418}
+    - name: belt
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 199
+        width: 112
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: leg_l
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 99
+        height: 129
+      alignment: 9
+      pivot: {x: .758844614, y: .159460336}
+    - name: leg_r
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11
+        width: 99
+        height: 129
+      alignment: 9
+      pivot: {x: .226364136, y: .170811728}
+    - name: foot_l
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 78
+        height: 122
+      alignment: 9
+      pivot: {x: .790986657, y: .89608717}
+    - name: foot_r
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 24
+        width: 78
+        height: 122
+      alignment: 9
+      pivot: {x: .218399838, y: .908089817}
+    - name: shoulder_l
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 101
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: .671600342, y: .232703671}
+    - name: shoulder_r
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 64
+        height: 62
+      alignment: 9
+      pivot: {x: .374159813, y: .240201339}
+    - name: arm_bottom_r
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 310
+        width: 83
+        height: 107
+      alignment: 9
+      pivot: {x: .235363692, y: .151026353}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,1291 @@
+Mono path[0] = 'E:/Dev/LudumDare/LD19 Discover/KimauLD_Win/KimauLD_Data/Managed'
+Mono path[1] = 'E:/Dev/LudumDare/LD19 Discover/KimauLD_Win/KimauLD_Data/Mono'
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3750]
+    Renderer: NVIDIA GeForce GTX 650
+    Vendor:   NVIDIA
+    VRAM:     1024 MB
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 3520x1080 at -1600,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-027E9DB8 (this message is harmless)
+Non platform assembly: data-0284CE90 (this message is harmless)
+Non platform assembly: data-02851D10 (this message is harmless)
+Non platform assembly: data-02854988 (this message is harmless)
+We have 2 blocks
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:Start()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+We have 2 magical blocks
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:Start()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [1] Free Points [2]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [2] Free Points [7]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [3] Free Points [12]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [4] Free Points [13]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [5] Free Points [14]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [6] Free Points [19]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [7] Free Points [24]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [8] Free Points [29]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [9] Free Points [30]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [10] Free Points [31]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [11] Free Points [36]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [12] Free Points [37]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [13] Free Points [38]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [14] Free Points [39]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [15] Free Points [40]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [16] Free Points [41]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [17] Free Points [42]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [18] Free Points [43]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [19] Free Points [44]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [20] Free Points [45]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [21] Free Points [46]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [22] Free Points [51]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [23] Free Points [56]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [24] Free Points [61]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [25] Free Points [66]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [26] Free Points [67]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [27] Free Points [68]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [28] Free Points [73]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [29] Free Points [78]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [30] Free Points [83]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [31] Free Points [88]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [32] Free Points [89]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [33] Free Points [94]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [34] Free Points [95]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [35] Free Points [96]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [36] Free Points [101]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [37] Free Points [106]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [38] Free Points [111]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [39] Free Points [112]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [40] Free Points [113]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [41] Free Points [114]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [42] Free Points [119]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [43] Free Points [120]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [44] Free Points [121]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [45] Free Points [126]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [46] Free Points [127]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [47] Free Points [128]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [48] Free Points [129]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [49] Free Points [134]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [50] Free Points [139]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [51] Free Points [140]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [52] Free Points [141]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [53] Free Points [142]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [54] Free Points [147]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [55] Free Points [148]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [56] Free Points [153]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [57] Free Points [158]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [58] Free Points [163]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [59] Free Points [168]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [60] Free Points [173]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [61] Free Points [174]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [62] Free Points [179]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [63] Free Points [184]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [64] Free Points [189]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [65] Free Points [190]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [66] Free Points [191]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [67] Free Points [192]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [68] Free Points [193]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [69] Free Points [194]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [70] Free Points [195]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [71] Free Points [200]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [72] Free Points [201]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [73] Free Points [202]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [74] Free Points [207]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [75] Free Points [212]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [76] Free Points [217]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [77] Free Points [222]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [78] Free Points [227]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [79] Free Points [232]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [80] Free Points [237]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [81] Free Points [242]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [82] Free Points [243]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [83] Free Points [244]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [84] Free Points [249]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [85] Free Points [254]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [86] Free Points [259]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [87] Free Points [260]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [88] Free Points [261]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [89] Free Points [262]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [90] Free Points [267]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [91] Free Points [272]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [92] Free Points [277]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [93] Free Points [282]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [94] Free Points [287]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [95] Free Points [292]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [96] Free Points [297]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [97] Free Points [298]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [98] Free Points [299]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [99] Free Points [300]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [100] Free Points [305]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [101] Free Points [310]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [102] Free Points [315]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [103] Free Points [316]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [104] Free Points [321]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [105] Free Points [322]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [106] Free Points [323]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [107] Free Points [324]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [108] Free Points [325]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [109] Free Points [326]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [110] Free Points [327]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [111] Free Points [328]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [112] Free Points [333]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [113] Free Points [338]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [114] Free Points [343]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [115] Free Points [344]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [116] Free Points [345]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [117] Free Points [346]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [118] Free Points [351]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [119] Free Points [356]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [120] Free Points [357]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [121] Free Points [358]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [122] Free Points [363]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [123] Free Points [364]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [124] Free Points [365]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [125] Free Points [366]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [126] Free Points [367]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [127] Free Points [368]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [128] Free Points [373]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [129] Free Points [374]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [130] Free Points [375]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [131] Free Points [376]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [132] Free Points [377]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [133] Free Points [382]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [134] Free Points [387]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [135] Free Points [388]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [136] Free Points [389]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [137] Free Points [390]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [138] Free Points [395]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Trying Letter [139] Free Points [400]
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:GenerateBlockLetter()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+
+Done Generating
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+WordPuzzleGener:TestBlock()
+WordPuzzleGener:Update()
+ 
+(Filename: ..\..\Runtime\Export\Generated\BaseClass.cpp Line: 2528)
+

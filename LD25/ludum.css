@@ -1,0 +1,566 @@
+body
+{
+  background: #111;
+  color: #EEE;
+  position: relative;
+}
+
+header,
+div,
+canvas
+{ 
+  position: relative; 
+}
+
+h1,
+h2,
+h3
+{
+  text-align: center;
+}
+
+header > span
+{
+  background: #DDD;
+  color: #111;
+  padding: 4px;
+  margin: 3px;
+  border: 2px solid #777;
+  border-radius: 10px;
+}
+
+dt, dd {
+    display: inline-block;
+    width: 40%;
+}
+
+dt { text-align: right; }
+dd { text-align: left; }
+
+#gameResources 
+{ 
+  display: block; 
+  background: #000;
+  position: absolute;
+  left: 33%;
+  width: 33%;
+}
+
+#gameResources img { max-width: 128px; max-height: 128px; }
+
+#debugLog 
+{ 
+  display: block; 
+  white-space: pre-line; 
+  position: absolute;
+  width: 30%;
+  left: 0px;
+}
+
+#liveOutput 
+{ 
+  display: block; 
+  position: absolute;
+  right: 0px;
+  width: 30%;
+}
+
+#liveOutput dt { display: inline-block; color: #DDD; width: 29%; margin: 0px; overflow: hidden; }
+#liveOutput dd { display: inline-block; color: #EEE; width: 69%; margin: 0px; overflow: hidden; }
+#liveOutput dt:nth-child(4n-1) { background: #222; }
+#liveOutput dd:nth-child(4n) { background: #222; }
+
+.hover { position: relative; }
+.hover em, .hover b { position: absolute; left: 0px; width: 100%; }
+.hover em { visibility: hidden;  }
+.hover b  { visibility: visible; }
+.hover:hover em { visibility: visible; }
+.hover:hover b  { visibility: hidden; }
+
+#gameBox 
+{
+  display: block;
+  width: 800px;
+  height:600px;
+  position: relative;
+  margin: auto;
+  background: #444;
+}
+
+.buttonSpan
+{
+  display: inline-block;
+  border: 3px solid rgba(0,0,0,0.8);
+  border-radius: 5px;
+  margin: 4px;
+  background: rgba(0,0,0,0.7);
+  padding: 4px 10px 4px 10px;
+}
+
+.buttonSpan:hover { border: 3px solid #333; background: #000; }
+
+
+.blackPopup
+{
+  display: block;
+  position: absolute;
+  margin: auto;
+  top: 100px;
+  left: 180px;
+  right: 180px;
+  border: 3px solid #333;
+  background: rgba(0,0,0,0.6);
+  text-align: center;
+}
+
+#popHead {
+    background: rgba(0,0,0,0.6);
+    width: 100%;
+    margin: 0px;
+}
+
+#popBody {
+    margin: 8px;
+}
+
+.agentList {
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 86px;
+    background: rgba(0,0,0,0.6);
+    border: 2px solid #333;
+    padding: 4px;
+    bottom: 0px;
+    width: 150px;
+}
+
+.agentList ul { 
+  padding: 2px;
+  margin: 2px;
+}
+
+
+.agentList li:hover { background: #000;}
+.agentList li { 
+  list-style-type: none; 
+  display: block;
+  margin: 2px; 
+  background: rgba(0,0,0,0.3);
+  -webkit-transition: all 1s;
+  -o-transition: all 1s;
+  transition: all 1s;
+
+  height: 18px;
+  width: 140px;
+}
+
+.agentList .agentLst_0 { color: #FFF; } 
+.agentList .agentLst_1 { color: #FF0; }
+.agentList .agentLst_2 { color: #FC3; }
+.agentList .agentLst_3 { color: #F33; }
+.agentList .agentLst_4 { color: #888; }
+.agentList .agentLst_5 { color: #555; text-decoration: line-through;}
+
+.agentList li.active { height: 22px; border: 2px #FF0 solid; }
+.agentList li.collapsed { height: 1px; font-size: 0px; padding: 0px; margin: 0px; }
+
+.jobList {
+    display: block;     
+    width: 150px;     position: absolute;     top: 88px;     left: 0px;     background: rgba(0,0,0,0.5);     bottom: 0px;
+    padding: 4px;
+}
+#cashBox {
+    position: absolute;
+    display: block;
+    bottom: 0px;
+    left: 170px;
+    font-size: 200%;
+}
+#policeBox {
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    right: 170px;
+    text-align: right;
+    font-size: 140%;
+}
+
+.jobBox {
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+#missionName {
+    margin: 0px;
+    text-shadow: black 3px 3px 4px;
+    position: absolute;
+    left: 5px;
+    top: 3px;
+    text-align: center;
+    width: 300px;
+}
+
+#currJobData {
+    position: absolute;
+    left: 0px;
+    padding: 4px;
+    margin: 0px;
+    top: 0px;
+    right: 0px;
+}
+
+.desc {
+    font-style: italic;
+    font-size: 15px;
+    position: absolute;
+    left: 300px;
+    right: 0px;
+    top: 0px;
+    padding: 0px;
+    margin: 2px;
+    height: 79px;
+    overflow: hidden;
+}
+.jobCostData {
+    position: absolute;
+    top: 39px;
+    left: 6px;
+    font-size: 20px;
+    color: rgba(255,255,255,0.8);
+    background: #66A;
+    padding: 2px;
+    width: 130px;
+    text-align: right;
+    box-shadow: 2px 2px 5px #000;
+    border-radius: 8px;
+}
+.riskData {
+    position: absolute;
+    top: 65px;
+    left: 173px;
+}
+
+.fadeUpBox {
+    position: absolute;
+    right: 0px;
+    width: 530px;
+    display: block;
+    height: 60px;
+    top: 27px;
+    
+    background: -moz-linear-gradient(top,  rgba(30,87,153,0) 0%, rgba(17,58,178,1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(30,87,153,0)), color-stop(100%,rgba(17,58,178,1)));
+    background: -webkit-linear-gradient(top,  rgba(30,87,153,0) 0%,rgba(17,58,178,1) 100%);
+    background: -o-linear-gradient(top,  rgba(30,87,153,0) 0%,rgba(17,58,178,1) 100%);
+    background: -ms-linear-gradient(top,  rgba(30,87,153,0) 0%,rgba(17,58,178,1) 100%);
+    background: linear-gradient(to bottom,  rgba(30,87,153,0) 0%,rgba(17,58,178,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#113ab2',GradientType=0 );
+
+}
+
+.agentSlot {
+    min-width: 16px;
+    height: 20px;
+    border-radius: 6px;
+    background: #6F6;
+    border: 2px #000 solid;
+    position: relative;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 0px 4px 0px 4px;
+    color: #000;
+    font-size: 14px;
+}
+
+.agentSlot.empty {
+  background: #666;
+}
+
+.agentJobList {
+    position: absolute;
+    left: 300px;
+    top: 52px;
+    right: 10px;
+    display: block;
+    text-align: right;
+}
+
+#costSpanDetail, #riskSpanDetail {
+  width: 48%;
+  display: inline-block;
+  font-size: 18px;
+  font-variant: small-caps;
+}
+
+.agentDetailList {
+    list-style: none;
+    margin: 5px;
+    padding: 0px;
+    width: 100%;
+}
+
+.agentDetailList li {
+  display: inline-block;
+  background: rgba(0,0,0,0.4);
+  margin:2px;
+  padding:3px;
+  text-align: center;
+  width: 45%;
+}
+
+.agentDetailList li:hover {
+  background: #000;
+  border: 2px #444 solid;
+}
+
+
+#jobListData {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+#jobListData li {
+    display: block;
+    background: rgba(0,0,0,0.5);
+    margin:2px;
+    font-size: 14px;
+}
+
+.jobLi0 { color: #FFF; }
+.jobLi1 { color: #D66; }
+.jobLi2 { color: #FF6; }
+.jobLi3 { color: #6F6; }
+
+.tierRating {
+  margin: 2px;
+  display: inline-block;
+}
+
+.tierStar {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: #000;
+    margin: 1px;
+    border-radius: 10px;
+    border: 1px #555 solid;
+}
+
+.tierStar.yes {
+  background: #FF6;
+}
+
+.jobBox .tierRating {
+    position: absolute;
+    top: 40px;
+    left: 165px;
+}
+
+.agentsActive {
+    position: absolute;
+    bottom: 0px;
+    left: 265px;
+    right: 0px;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+.agentCard {
+    display: inline-block;
+    width: 22%;
+    height: 165px;
+    margin: 3px;
+    background: rgba(0,0,0,0.7);
+    border: 3px #333 solid;
+}
+
+.agentCard h3 {
+    margin: 0px;
+    padding: 2px;
+    background: #000;
+}
+
+.agentCard h3:nth-child(2) { font-size: 70%; }
+.agentCard dl { width: 100%; margin: 0px; padding: 6px; }
+.agentCard dt { position: relative; width: 90%; margin: 0px 0px -15px 0px; padding: 2px 2px 6px 2px; display: inline-block; text-align: left; border-bottom: 8px solid #000; background: rgba(255,255,255,0.2);}
+.agentCard dd { position: relative; width: 90%; margin: 0px; padding: 2px; display: inline-block; text-align: right; }
+
+.diceBox {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    bottom: 20px;
+    background: rgba(0,0,0,0.6);
+    width: 200px;
+    padding: 0px;
+    border: 4px solid #333;
+}
+.diceBox h3 {
+    width: 100%;
+    background: rgba(255,255,255,0.8);
+    color: #111;
+    margin: 0px;
+}
+#dieAI {
+    background: rgba(200,50,50,0.4);
+    height: 24%;
+}
+
+#dieYou {
+    background: rgba(50,50,200,0.4);
+    height: 68%;
+}
+
+
+#missionLog { display: inline; }
+
+.missionLogOuter {
+    background: #000;
+    border: #000 solid 4px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    bottom: 195px;
+    left: 260px;
+    color: #4F4;
+    font-family: monospace;
+}
+
+.missionlogOuter span { display: block; }
+.missionlogOuter .blinky { display: inline-block; }
+.missionLogOuter span:nth-last-child(1) { display: inline-block; }
+
+
+#jobContinueButton {
+    position: absolute;
+    left: 590px;
+    top: 360px;
+    border: #363 2px solid;
+    color: #3F3;
+}
+
+#jobQuitButton {
+    position: relative;
+    top: 360px;
+    left: 680px;
+    border: #633 2px solid;
+    color: #F33;
+}
+
+#jobContinueButton {
+    position: absolute;
+    left: 590px;
+    top: 360px;
+    border: #363 2px solid;
+    color: #3F3;
+}
+
+#jobQuitButton {
+    position: relative;
+    top: 360px;
+    left: 680px;
+    border: #633 2px solid;
+    color: #F33;
+}
+
+@-webkit-keyframes blink {
+  0%   { background: #0a0 }
+  47%  { background: #6F6 }
+  50%  { background: #000 }
+  97%  { background: #000 }
+  100% { background: #090 }
+}
+ 
+@-moz-keyframes blink {
+  0%   { background: #0a0 }
+  47%  { background: #6F6 }
+  50%  { background: #000 }
+  97%  { background: #000 }
+  100% { background: #6F6 }
+}
+ 
+@-ms-keyframes blink {
+  0%   { background: #0a0 }
+  47%  { background: #6F6 }
+  50%  { background: #000 }
+  97%  { background: #000 }
+  100% { background: #6F6 }
+}
+ 
+@-o-keyframes blink {
+  0%   { background: #0a0 }
+  47%  { background: #6F6 }
+  50%  { background: #000 }
+  97%  { background: #000 }
+  100% { background: #6F6 }
+}
+
+.blinky {    
+  -webkit-animation: blink 2s linear 0s infinite;
+  -moz-animation: blink 2s linear 0s infinite;
+  -ms-animation: blink 2s linear 0s infinite;
+  -o-animation: blink 2s linear 0s infinite;
+
+  display: inline-block;
+}
+
+.die {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin: 4px;
+  background: url('dieBG.png');
+}
+
+.res1 { background-position-x: -0px; }
+.res2 { background-position-x: -32px; }
+.res3 { background-position-x: -64px; }
+.res4 { background-position-x: -96px; }
+.res5 { background-position-x: -128px; }
+.res6 { background-position-x: -160px; }
+
+
+
+.blueText { color: #44F; }
+.redText { color: #F44; }
+
+.loseResult {
+    font-variant: small-caps;
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    background: #000;
+    padding: 2px;
+    color: #900;
+    font-size: 20px;
+}
+
+.winResult {
+    font-variant: small-caps;
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    background: #000;
+    padding: 2px;
+    color: #090;
+    font-size: 20px;
+}
+
+.agentNameDie {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    background: rgba(0,0,0,0.6);
+}

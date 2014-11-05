@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 7b2c39bfa43c44c4dbea657b12466c37
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: testplatforms_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 363
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: testplatforms_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 172
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: testplatforms_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 382
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: testplatforms_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 276
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: testplatforms_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 248
+        width: 277
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: testplatforms_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 221
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: testplatforms_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 464
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
