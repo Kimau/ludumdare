@@ -1,28 +1,32 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
+[RequireComponent(typeof(GUIText))]
 public class ButtonNewGame : MonoBehaviour
 {
-  // Use this for initialization
+  private GUIText m_guiText;
+
   void Start()
   {
-    Screen.showCursor = true;
+    Cursor.visible = true;
+    m_guiText = GetComponent<GUIText>();
   }
-	
-	
+
   void Update()
   {
     // 
     if (Input.GetMouseButtonDown(0))
     {
-      if (guiText.HitTest(Input.mousePosition))
-        Application.LoadLevel("DigScene");
-    } else
+      if (m_guiText.HitTest(Input.mousePosition))
+        SceneManager.LoadScene("DigScene", LoadSceneMode.Single);
+    }
+    else
     {
-      if (guiText.HitTest(Input.mousePosition))
-        guiText.color = Color.blue;
+      if (m_guiText.HitTest(Input.mousePosition))
+        m_guiText.color = Color.blue;
       else
-        guiText.color = Color.white;
+        m_guiText.color = Color.white;
     }
 
   }

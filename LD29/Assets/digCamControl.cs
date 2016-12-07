@@ -8,9 +8,9 @@ public class digCamControl : MonoBehaviour
   // Use this for initialization
   void Start()
   {
-	
+
   }
-	
+
   // Update is called once per frame
   void Update()
   {
@@ -39,7 +39,7 @@ public class digCamControl : MonoBehaviour
       if (keySubjet.Raycast(mr, out hitInfo, 10000.0f))
         moveVec += transform.TransformDirection(Vector3.up);
     }
-    
+
     if (Input.GetKey(KeyCode.S))
     {
       mr = Camera.main.ViewportPointToRay(new Vector3(0.5f, 0.3f, 0.5f));
@@ -71,6 +71,6 @@ public class digCamControl : MonoBehaviour
       moveVec.Normalize();
       transform.position += moveVec * Time.deltaTime * (hitInfo.distance - 100.0f) / 1700.0f * 5000.0f;
     }
-	
+
   }
 }

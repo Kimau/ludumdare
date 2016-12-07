@@ -161,14 +161,14 @@ public class MeshWizard : MonoBehaviour
     Vector3 blockSize = new Vector3(1.0f, 1.0f, 1.0f);
     Vector3 startPos = blockSize * -0.5f * (float)blockRes;
     //
-    
+
     List<int> aTriList = new List<int>();
-    
+
     int vCount = blockRes * blockRes * 8;
     Vector3[] vertList = new Vector3[vCount];
     Vector2[] uvList = new Vector2[vCount];
-    
-    
+
+
     Vector3[] vOffset = {
       new Vector3(blockSize.x * -0.5f, blockSize.y * -0.5f, blockSize.z * -0.5f),
       new Vector3(blockSize.x * +0.5f, blockSize.y * -0.5f, blockSize.z * -0.5f),
@@ -181,7 +181,7 @@ public class MeshWizard : MonoBehaviour
     };
 
     Vector3 uvStep = Vector3.one / blockRes;
-    
+
     int vIndex = 0;
     for (int x = 0; x < blockRes; ++x)
       for (int y = 0; y < blockRes; ++y)
@@ -189,27 +189,27 @@ public class MeshWizard : MonoBehaviour
         Vector3 blockMid = new Vector3(startPos.x + blockSize.x * x,
                                      0,
                                      startPos.y + blockSize.y * y);
-      
+
         Vector3 uvLocA = new Vector3(uvStep.x * x, uvStep.y * y);
-      
-        vertList [vIndex + 0] = blockMid + vOffset [0];
-        vertList [vIndex + 1] = blockMid + vOffset [1];
-        vertList [vIndex + 2] = blockMid + vOffset [2];
-        vertList [vIndex + 3] = blockMid + vOffset [3];
-        vertList [vIndex + 4] = blockMid + vOffset [4];
-        vertList [vIndex + 5] = blockMid + vOffset [5];
-        vertList [vIndex + 6] = blockMid + vOffset [6];
-        vertList [vIndex + 7] = blockMid + vOffset [7];
-      
-        uvList [vIndex + 0] = uvLocA;
-        uvList [vIndex + 1] = uvLocA;
-        uvList [vIndex + 2] = uvLocA;
-        uvList [vIndex + 3] = uvLocA;
-        uvList [vIndex + 4] = uvLocA;
-        uvList [vIndex + 5] = uvLocA;
-        uvList [vIndex + 6] = uvLocA;
-        uvList [vIndex + 7] = uvLocA;
-      
+
+        vertList[vIndex + 0] = blockMid + vOffset[0];
+        vertList[vIndex + 1] = blockMid + vOffset[1];
+        vertList[vIndex + 2] = blockMid + vOffset[2];
+        vertList[vIndex + 3] = blockMid + vOffset[3];
+        vertList[vIndex + 4] = blockMid + vOffset[4];
+        vertList[vIndex + 5] = blockMid + vOffset[5];
+        vertList[vIndex + 6] = blockMid + vOffset[6];
+        vertList[vIndex + 7] = blockMid + vOffset[7];
+
+        uvList[vIndex + 0] = uvLocA;
+        uvList[vIndex + 1] = uvLocA;
+        uvList[vIndex + 2] = uvLocA;
+        uvList[vIndex + 3] = uvLocA;
+        uvList[vIndex + 4] = uvLocA;
+        uvList[vIndex + 5] = uvLocA;
+        uvList[vIndex + 6] = uvLocA;
+        uvList[vIndex + 7] = uvLocA;
+
         // X- 0123
         aTriList.Add(vIndex + 0);
         aTriList.Add(vIndex + 2);
@@ -217,7 +217,7 @@ public class MeshWizard : MonoBehaviour
         aTriList.Add(vIndex + 1);
         aTriList.Add(vIndex + 2);
         aTriList.Add(vIndex + 3);
-      
+
         // X+ 4567
         aTriList.Add(vIndex + 7);
         aTriList.Add(vIndex + 6);
@@ -225,7 +225,7 @@ public class MeshWizard : MonoBehaviour
         aTriList.Add(vIndex + 6);
         aTriList.Add(vIndex + 4);
         aTriList.Add(vIndex + 5);
-      
+
         // Y- 0246
         aTriList.Add(vIndex + 0);
         aTriList.Add(vIndex + 4);
@@ -233,7 +233,7 @@ public class MeshWizard : MonoBehaviour
         aTriList.Add(vIndex + 2);
         aTriList.Add(vIndex + 4);
         aTriList.Add(vIndex + 6);
-      
+
         // Y+ 1357
         aTriList.Add(vIndex + 1);
         aTriList.Add(vIndex + 3);
@@ -241,7 +241,7 @@ public class MeshWizard : MonoBehaviour
         aTriList.Add(vIndex + 3);
         aTriList.Add(vIndex + 7);
         aTriList.Add(vIndex + 5);
-      
+
         // Z- 0145
         aTriList.Add(vIndex + 0);
         aTriList.Add(vIndex + 1);
@@ -249,7 +249,7 @@ public class MeshWizard : MonoBehaviour
         aTriList.Add(vIndex + 1);
         aTriList.Add(vIndex + 5);
         aTriList.Add(vIndex + 4);
-      
+
         // Z+ 2367
         aTriList.Add(vIndex + 2);
         aTriList.Add(vIndex + 6);
@@ -259,19 +259,19 @@ public class MeshWizard : MonoBehaviour
         aTriList.Add(vIndex + 7);
         vIndex += 8;
       }
-    
+
     // Setup Mesh
     Mesh genMesh = new Mesh();
     genMesh.vertices = vertList;
     genMesh.uv = uvList;
     genMesh.triangles = aTriList.ToArray();
     genMesh.RecalculateBounds();
-    genMesh.RecalculateNormals(); 
+    genMesh.RecalculateNormals();
     genMesh.Optimize();
-    
+
     string path = EditorUtility.SaveFilePanel("Create Puzzle", "Assets/Resources/", "puzzle.asset", "asset");
     path = FileUtil.GetProjectRelativePath(path);
-    
+
     AssetDatabase.CreateAsset(genMesh, path);
     AssetDatabase.SaveAssets();
   }
