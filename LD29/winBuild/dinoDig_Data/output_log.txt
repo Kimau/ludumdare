@@ -1,7 +1,7 @@
 Initialize engine version: 4.3.4f1 (e444f76e01cd)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7586]
+    Version:  Direct3D 9.0c [nvd3dum.dll 22.21.13.8253]
     Renderer: NVIDIA GeForce GTX 980
     Vendor:   NVIDIA
     VRAM:     3072 MB (via DXGI)
@@ -11,15 +11,15 @@ Platform assembly: D:\Dev\LudumDare\LD29\winBuild\dinoDig_Data\Managed\UnityEngi
 Loading D:\Dev\LudumDare\LD29\winBuild\dinoDig_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: D:\Dev\LudumDare\LD29\winBuild\dinoDig_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading D:\Dev\LudumDare\LD29\winBuild\dinoDig_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.155 seconds
+- Completed reload, in  0.156 seconds
 desktop: 1920x1080 60Hz; virtual: 3520x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-UnloadTime: 0.313420 ms
+UnloadTime: 0.193405 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 159.
-Total: 0.507251 ms (FindLiveObjects: 0.010605 ms CreateObjectMapping: 0.009142 ms MarkObjects: 0.055589 ms  DeleteObjects: 0.013531 ms)
+Total: 0.241948 ms (FindLiveObjects: 0.004343 ms CreateObjectMapping: 0.004343 ms MarkObjects: 0.034746 ms  DeleteObjects: 0.008431 ms)
 
 Platform assembly: D:\Dev\LudumDare\LD29\winBuild\dinoDig_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\Dev\LudumDare\LD29\winBuild\dinoDig_Data\Managed\Mono.Security.dll (this message is harmless)

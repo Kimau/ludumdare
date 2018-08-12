@@ -1,18 +1,18 @@
-Mono path[0] = 'E:/Dev/LudumDare/LD19 Discover/KimauLD_Win/KimauLD_Data/Managed'
-Mono path[1] = 'E:/Dev/LudumDare/LD19 Discover/KimauLD_Win/KimauLD_Data/Mono'
+Mono path[0] = 'D:/Dev/LudumDare/LD19 Discover/KimauLD_Win/KimauLD_Data/Managed'
+Mono path[1] = 'D:/Dev/LudumDare/LD19 Discover/KimauLD_Win/KimauLD_Data/Mono'
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3750]
-    Renderer: NVIDIA GeForce GTX 650
+    Version:  Direct3D 9.0c [nvd3dum.dll 22.21.13.8253]
+    Renderer: NVIDIA GeForce GTX 980
     Vendor:   NVIDIA
-    VRAM:     1024 MB
+    VRAM:     4095 MB
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
-desktop: 1920x1080 60Hz; virtual: 3520x1080 at -1600,0
+desktop: 1920x1080 60Hz; virtual: 3520x1080 at 0,0
 <I> Initializing (RawInput).
 <RI> Input initialized.
-Non platform assembly: data-027E9DB8 (this message is harmless)
-Non platform assembly: data-0284CE90 (this message is harmless)
-Non platform assembly: data-02851D10 (this message is harmless)
-Non platform assembly: data-02854988 (this message is harmless)
+Non platform assembly: data-0275D2F0 (this message is harmless)
+Non platform assembly: data-027C19D8 (this message is harmless)
+Non platform assembly: data-027C4850 (this message is harmless)
+Non platform assembly: data-027C74C8 (this message is harmless)
 We have 2 blocks
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:Log(Object)
